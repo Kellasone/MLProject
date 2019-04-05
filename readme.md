@@ -41,8 +41,8 @@ Pierderea este calculata in functie de optimizatorul "SGD" - Sochastic Gradient 
 
 Nu am folosit regularizare, optiunea default fiind " NONE " pentru cele 3 tipuri de regularizari posibile:
 
->kernel_regularizer
->bias_regularizer
+>kernel_regularizer<br>
+>bias_regularizer<br>
 >activity_regularizer
 
 
