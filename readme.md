@@ -49,9 +49,9 @@ Nu am folosit regularizare, optiunea default fiind " NONE " pentru cele 3 tipuri
 ### Acuratetea modelului.
 
 Am impartit datele de antrenare in 3 folduri, dupa cum urmeaza:
->foldul 1: primele 5000 de date.
->foldul 2: urmatoarele 5000 de date, de la 5000 la 9999
->foldul 3: ultimele 5000 de date, de la 10000 la 14999
+>foldul 1: primele 5000 de date.<br>
+>foldul 2: urmatoarele 5000 de date, de la 5000 la 9999<br>
+>foldul 3: ultimele 5000 de date, de la 10000 la 14999<br>
 
 Am antrenat reteaua pe primul fold, dupa care am facut matricea de confuzie si acuratetea pe acelasi fold, rezultatele fiind urmatoarele: 
 
